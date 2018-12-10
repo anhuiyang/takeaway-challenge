@@ -2,8 +2,8 @@ Takeaway Challenge
 ==================
 Initialize takeaway to start
 method #.menu.all to read menu
-method #.take_food("food") to order
-method #.confirm to confirm order
+method #.order("food") to order
+method #.confirm to confirm order amount
 
 
 ```

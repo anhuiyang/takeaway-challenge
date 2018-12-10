@@ -7,7 +7,7 @@ class Takeaway
     @menu = menu
   end
 
-  def take_food(selection)
+  def order(selection)
     case selection
       when "burgers"
         @order << {burgers: take_quantity}
